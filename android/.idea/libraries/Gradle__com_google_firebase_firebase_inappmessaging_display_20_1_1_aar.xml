@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-inappmessaging-display:20.1.1@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../woobox_wcfm/android/gradle/caches/transforms-3/b8305692328f6f83d9abf5dc60eafef9/transformed/jetified-firebase-inappmessaging-display-20.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../../woobox_wcfm/android/gradle/caches/transforms-3/b8305692328f6f83d9abf5dc60eafef9/transformed/jetified-firebase-inappmessaging-display-20.1.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../woobox_wcfm/android/gradle/caches/transforms-3/b8305692328f6f83d9abf5dc60eafef9/transformed/jetified-firebase-inappmessaging-display-20.1.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../woobox_wcfm/android/gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-inappmessaging-display/20.1.1/afac790fc54f45d1c3f63db8b0d6f4f9155e5b3f/firebase-inappmessaging-display-20.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

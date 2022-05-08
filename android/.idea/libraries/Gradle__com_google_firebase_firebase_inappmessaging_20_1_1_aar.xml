@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-inappmessaging:20.1.1@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../woobox_wcfm/android/gradle/caches/transforms-3/5d1827c465557d26976067199d622dfd/transformed/jetified-firebase-inappmessaging-20.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../../woobox_wcfm/android/gradle/caches/transforms-3/626f12631c0be48e2c121c6dcec03b59/transformed/jetified-firebase-inappmessaging-20.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../../woobox_wcfm/android/gradle/caches/transforms-3/fdac46ff6464f359be174d721065fd0a/transformed/jetified-firebase-inappmessaging-20.1.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../woobox_wcfm/android/gradle/caches/transforms-3/5d1827c465557d26976067199d622dfd/transformed/jetified-firebase-inappmessaging-20.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../woobox_wcfm/android/gradle/caches/transforms-3/5d1827c465557d26976067199d622dfd/transformed/jetified-firebase-inappmessaging-20.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../woobox_wcfm/android/gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-inappmessaging/20.1.1/6ca61c21ff98c9b26e779471dcfd1fb38919472a/firebase-inappmessaging-20.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

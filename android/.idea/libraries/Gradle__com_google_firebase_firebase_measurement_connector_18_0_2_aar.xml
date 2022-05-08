@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-measurement-connector:18.0.2@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../woobox_wcfm/android/gradle/caches/transforms-3/e28c9cb877e6cc09ff2e3d9cef78aca2/transformed/jetified-firebase-measurement-connector-18.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../../woobox_wcfm/android/gradle/caches/transforms-3/1b8c0fd8a7a67378e6e265e9794490fd/transformed/jetified-firebase-measurement-connector-18.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../../woobox_wcfm/android/gradle/caches/transforms-3/34bb1adf1bf4f51000827a4cf244d608/transformed/jetified-firebase-measurement-connector-18.0.2/res" />
+      <root url="jar://$PROJECT_DIR$/../../woobox_wcfm/android/gradle/caches/transforms-3/e28c9cb877e6cc09ff2e3d9cef78aca2/transformed/jetified-firebase-measurement-connector-18.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../woobox_wcfm/android/gradle/caches/transforms-3/e28c9cb877e6cc09ff2e3d9cef78aca2/transformed/jetified-firebase-measurement-connector-18.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../woobox_wcfm/android/gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-measurement-connector/18.0.2/6a8b08d2a93001c8d089863beda57683994fb63d/firebase-measurement-connector-18.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
